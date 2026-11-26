@@ -1,0 +1,9 @@
+../App/App_JPEG.c:28:13:jpg_tables	2
+../App/App_JPEG.c:44:24:jpg_clamp	2
+../App/App_JPEG.c:49:24:jpg_ycc565	1
+../App/App_JPEG.c:59:6:App_JPEG_Fit	6
+../App/App_JPEG.c:85:9:App_JPEG_Probe	25
+../App/App_JPEG.c:142:10:App_JPEG_CoreSetup	18
+../App/App_JPEG.c:191:6:App_JPEG_CorePutMCU	10
+../App/App_JPEG.c:259:13:jpg_stop	1
+../App/App_JPEG.c:267:10:App_JPEG_DecodeHW	41

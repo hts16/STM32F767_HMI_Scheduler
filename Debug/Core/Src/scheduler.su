@@ -1,0 +1,9 @@
+../Core/Src/scheduler.c:33:1:SchedulerSysTickIntHandler	4	static
+../Core/Src/scheduler.c:61:6:SchedulerInit	16	static
+../Core/Src/scheduler.c:80:10:scheduler_get_tick	4	static
+../Core/Src/scheduler.c:101:6:SchedulerRun	16	static
+../Core/Src/scheduler.c:155:1:SchedulerTaskEnable	16	static
+../Core/Src/scheduler.c:207:1:SchedulerTaskDisable	16	static
+../Core/Src/scheduler.c:233:1:SchedulerTickCountGet	4	static
+../Core/Src/scheduler.c:258:1:SchedulerElapsedTicksGet	16	static
+../Core/Src/scheduler.c:285:1:SchedulerElapsedTicksCalc	16	static

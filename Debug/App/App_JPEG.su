@@ -1,0 +1,9 @@
+../App/App_JPEG.c:28:13:jpg_tables	16	static
+../App/App_JPEG.c:44:24:jpg_clamp	16	static
+../App/App_JPEG.c:49:24:jpg_ycc565	40	static
+../App/App_JPEG.c:59:6:App_JPEG_Fit	32	static
+../App/App_JPEG.c:85:9:App_JPEG_Probe	40	static
+../App/App_JPEG.c:142:10:App_JPEG_CoreSetup	32	static
+../App/App_JPEG.c:191:6:App_JPEG_CorePutMCU	104	static
+../App/App_JPEG.c:259:13:jpg_stop	4	static
+../App/App_JPEG.c:267:10:App_JPEG_DecodeHW	144	static

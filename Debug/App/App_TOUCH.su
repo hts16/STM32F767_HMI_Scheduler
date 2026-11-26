@@ -1,0 +1,12 @@
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:273:22:LL_GPIO_SetPinMode	40	static,ignoring_inline_asm
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:342:22:LL_GPIO_SetPinOutputType	24	static
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:800:26:LL_GPIO_IsInputPinSet	16	static
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:852:26:LL_GPIO_IsOutputPinSet	16	static
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	16	static
+../App/App_TOUCH.c:46:13:touch_hw_reset	8	static
+../App/App_TOUCH.c:63:16:touch_probe	16	static
+../App/App_TOUCH.c:68:6:App_TOUCH_Init	64	static
+../App/App_TOUCH.c:164:6:App_TOUCH_IRQHandler	4	static
+../App/App_TOUCH.c:170:6:App_TOUCH_Task	48	static
+../App/App_TOUCH.c:232:9:App_TOUCH_GetTap	4	static
